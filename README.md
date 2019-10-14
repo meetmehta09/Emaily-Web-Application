@@ -1,3 +1,3 @@
 # Emaily-Web-Application
-Fullstack web app using Node with React  
+Fullstack web app using NodeJS with React  
 Instructor: Stephen Grider
